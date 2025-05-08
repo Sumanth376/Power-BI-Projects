@@ -69,9 +69,3 @@ Each project folder contains:
 - Power Query (M Language)
 - Data Modeling & Relationships
 - Excel / CSV preprocessing
-
----
-
-## 📬 Let's Connect
-
-If you're interested in collaborating or want to know more about these projects, feel free to connect!
